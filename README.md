@@ -90,7 +90,7 @@ Once the server is running, you can use the server URL to fetch data after loggi
 
 ## Live Demo (change_me)
 
-You can access the live version of the application here: [Wanderlust Live Demo](https://wanderlust-zr73.onrender.com/)
+You can access the live version of the application here: [Zerodha-backend Live Demo](https://zerodha-backend-gudt.onrender.com)
 
 ## Project Structure (MVC)
 
