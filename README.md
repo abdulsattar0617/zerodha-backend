@@ -90,7 +90,7 @@ Once the server is running, you can use the server URL to fetch data after loggi
 
 ## Live Demo
 
-You can access the live version of the application here: [Zerodha-backend Live Demo](https://zerodha-backend-zwkn.onrender.com)
+You can access the live version of the application here: [Zerodha-backend Deployed link](https://zerodha-backend-zwkn.onrender.com)
 
 ## Project Structure (MVC)
 
