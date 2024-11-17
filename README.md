@@ -88,7 +88,7 @@ Once the server is running, you can use the server URL to fetch data after loggi
 2. Then, use the token in your request header to access protected routes and fetch data.
 
 
-## Live Demo (change_me)
+## Live Demo
 
 You can access the live version of the application here: [Zerodha-backend Live Demo](https://zerodha-backend-gudt.onrender.com)
 
@@ -143,4 +143,4 @@ We welcome contributions to the Zerodha Clone Backend project! If you'd like to 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/abdulsattar0617/zerodha-backend/blob/main/LICENSE) file for more details.
