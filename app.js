@@ -22,16 +22,16 @@ app.use(express.urlencoded({ extended: true }));
 app.use("/auth", authRoute);
 app.use("/", dashboardRoute);
 
-app.post("/sellOrder", async (req, res) => {
-    let newOrder = new OrdersModel({
-        name: req.body.name,
-        qty: req.body.qty,
-        price: req.body.price,
-        mode: req.body.mode,
-    });
-    newOrder.save();
-    res.json({ message: "New order placed!" });
-});
+// app.post("/sellOrder", async (req, res) => {
+//     let newOrder = new OrdersModel({
+//         name: req.body.name,
+//         qty: req.body.qty,
+//         price: req.body.price,
+//         mode: req.body.mode,
+//     });
+//     newOrder.save();
+//     res.json({ message: "New order placed!" });
+// });
 
 app.get("/allOrders", async (req, res) => {
     let allOrders = await OrdersModel.find({});
